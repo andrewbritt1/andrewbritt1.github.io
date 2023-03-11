@@ -21,3 +21,6 @@ Data Sources:
 - zip code geo data source - https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/tx_texas_zip_codes_geo.min.json
 - competition source - https://foursquare.com/
 - Crime rating data source - https://www.bestplaces.net
+
+[Notebook Name](https://nbviewer.org/github/sp1ral0u1/sp1ral0u1.github.io/blob/main/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Final%20Version%20%28for%20repo%29.ipynb)
+
