@@ -1,4 +1,4 @@
-
+### Start A Restaurant! Where do I go?
 
 This project outlines a process to identify the top 20 areas by zipcode to start a breakfast restaurant in the Dallas-Fort Worth metroplex using existing crime, population and restaurant data
 For success criteria, we've identified the following elements that will be used to generate a top down score by zipcode -
@@ -6,7 +6,6 @@ For success criteria, we've identified the following elements that will be used 
 - highest safety (low crime)
 - lowest competition
 
-### Start A Restaurant! Where do I go?
 To start, we need to find city and zipcode data. This can be found from the following source - https://simplemaps.com/data/us-zips. This data will be in csv format and imported as a dataframe for as we go through this exercise. Luckily this data source also includes population by zipcode as part of the data set.
 
 Next, we will need to gather geo location data that will enable us to display data by zipcode. This can be found from the following source - https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/tx_texas_zip_codes_geo.min.json. We will ultimately use this json to create a choropleth heat map by zipcode.
