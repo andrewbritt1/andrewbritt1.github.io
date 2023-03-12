@@ -6,7 +6,7 @@ For success criteria, we've identified the following elements that will be used 
 - highest safety (low crime)
 - lowest competition
 
-To start, we need to find city and zipcode data. This can be found from the following source - https://simplemaps.com/data/us-zips. This data will be in csv format and imported as a dataframe for as we go through this exercise. Luckily this data source also includes population by zipcode as part of the data set.
+To start, we need to find city and zipcode data. This can be found from the following source - (https://simplemaps.com/data/us-zips). This data will be in csv format and imported as a dataframe for as we go through this exercise. Luckily this data source also includes population by zipcode as part of the data set.
 
 Next, we will need to gather geo location data that will enable us to display data by zipcode. This can be found from the following source - https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/tx_texas_zip_codes_geo.min.json. We will ultimately use this json to create a choropleth heat map by zipcode.
 
@@ -26,4 +26,4 @@ Data Sources:
 
 [ DFW - Top 20 Areas by Zipcode](https://nbviewer.org/github/sp1ral0u1/sp1ral0u1.github.io/blob/main/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Final%20Version%20%28for%20repo%29.ipynb)
 
-<iframe src="https://nbviewer.org/github/andrewbritt1/andrewbritt1.github.io/blob/909f82d58a6d738c4788de8b1e1a7b8a03626f90/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Reduced.ipynb" width="100%" height="700"></iframe>
+<iframe src="https://nbviewer.org/github/andrewbritt1/andrewbritt1.github.io/blob/909f82d58a6d738c4788de8b1e1a7b8a03626f90/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Reduced.ipynb" width="100%" height="600"></iframe>
