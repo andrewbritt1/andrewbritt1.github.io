@@ -6,7 +6,7 @@ For success criteria, we've identified the following elements that will be used 
 - lowest competition
 
 
-To start, we need to find city and zipcode data. This can be found from the following source - https://simplemaps.com/data/us-zips. This data will be in csv format and imported as a dataframe for as we go through this exercise. Luckily this data source also includes population by zipcode as part of the data set.
+To start, we need to find city and zipcode data. This can be found from the following source - (https://simplemaps.com/data/us-zips). This data will be in csv format and imported as a dataframe for as we go through this exercise. Luckily this data source also includes population by zipcode as part of the data set.
 
 Since our client would like a map with results, we will need to gather geo location data that will enable us to display data by zipcode. This can be found from the following source - https://github.com/OpenDataDE/State-zip-code-GeoJSON/blob/master/tx_texas_zip_codes_geo.min.json. We will ultimately use this json to create a choropleth heat map by zipcode.
 
