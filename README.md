@@ -22,8 +22,8 @@ Data Sources:
 - competition source - https://foursquare.com/
 - Crime rating data source - https://www.bestplaces.net
 
-- Follow the link below for the process and results
+Follow the links below for the process and results:
 
-[ DFW - Top 20 Areas by Zipcode](https://nbviewer.org/github/sp1ral0u1/sp1ral0u1.github.io/blob/main/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Final%20Version%20%28for%20repo%29.ipynb)
+[ DFW - Top 20 Areas by Zipcode (nbviewer)](https://nbviewer.org/github/andrewbritt1/andrewbritt1.github.io/blob/108eb86ca5297eaaac004ce0b2eb4daaa70d2f96/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Final%20Version%20%28for%20repo%29.ipynb) | [ DFW - Top 20 Areas by Zipcode (github)](https://github.com/andrewbritt1/andrewbritt1.github.io/blob/108eb86ca5297eaaac004ce0b2eb4daaa70d2f96/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Final%20Version%20(for%20repo).ipynb)
 
 <iframe src="https://nbviewer.org/github/andrewbritt1/andrewbritt1.github.io/blob/909f82d58a6d738c4788de8b1e1a7b8a03626f90/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Reduced.ipynb" width="100%" height="500"></iframe>
