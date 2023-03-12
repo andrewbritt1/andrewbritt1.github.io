@@ -1,4 +1,4 @@
-### Start A Restaurant! Where do I go?
+### *Start A Restaurant! Where do I go?*
 
 This project outlines a process to identify the top 20 areas by zipcode to start a breakfast restaurant in the Dallas-Fort Worth metroplex using existing crime, population and restaurant data
 For success criteria, we've identified the following elements that will be used to generate a top down score by zipcode -
