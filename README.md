@@ -26,4 +26,4 @@ Data Sources:
 
 [ DFW - Top 20 Areas by Zipcode](https://nbviewer.org/github/sp1ral0u1/sp1ral0u1.github.io/blob/main/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Final%20Version%20%28for%20repo%29.ipynb)
 
-(<iframe src=[http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261](https://nbviewer.org/github/andrewbritt1/andrewbritt1.github.io/blob/24700fb3ba8411465d8053f3e9764c92cb919687/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Reduced.ipynb) width=1000 height=350></iframe>)
+<iframe src="[https://nbviewer.jupyter.org/url/URL_OF_YOUR_NOTEBOOK.ipynb](https://nbviewer.org/github/andrewbritt1/andrewbritt1.github.io/blob/24700fb3ba8411465d8053f3e9764c92cb919687/Restaurant%20Startup%20Location%20Ranking%20By%20Zipcode%20-%20Reduced.ipynb)" width="100%" height="500"></iframe>
